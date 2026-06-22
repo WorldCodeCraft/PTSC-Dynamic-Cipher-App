@@ -1,0 +1,27 @@
+# Ortam değişkenleri ve sanal ortam klasörleri
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Derlenmiş Python dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller klasör ve dosyaları
+build/
+dist/
+*.spec
+
+# IDE ve Editör klasörleri
+.idea/
+.vscode/
+*.swp
+
+# Çeşitli konfigürasyon ve log dosyaları
+*.ini
+*.log
