@@ -42,4 +42,4 @@ python main.py
    - Eğer veri paketindeki tek bir harf bile değiştirilmişse (örneğin araya girilmişse) veya saat bozulmuşsa: **[ ❌ İHLAL TESPİT EDİLDİ / REDDEDİLDİ ]** uyarısı verilir. İstiyorsanız paketteki herhangi bir harfi değiştirerek bu güvenlik önlemini test edebilirsiniz.
 
 ## 📄 Lisans
-Bu proje açık kaynak kodlu olarak geliştirilmiştir. İstediğiniz gibi düzenleyebilir, geliştirebilir veya kendi projelerinizde kullanabilirsiniz.
+Bu projenin tüm hakları saklıdır (All Rights Reserved). Kaynak kodlarının izinsiz kopyalanması, dağıtılması, değiştirilmesi veya ticari/bireysel amaçlarla kullanılması kesinlikle yasaktır. Proje sadece görüntüleme ve inceleme amaçlı olarak paylaşılmıştır.
